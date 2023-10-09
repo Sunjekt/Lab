@@ -1,0 +1,10 @@
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\bin\Debug\SoftwareDesignLab1.exe.config
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\bin\Debug\SoftwareDesignLab1.exe
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\bin\Debug\SoftwareDesignLab1.pdb
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.csproj.AssemblyReference.cache
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.Form1.resources
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.Properties.Resources.resources
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.csproj.GenerateResource.cache
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.csproj.CoreCompileInputs.cache
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.exe
+C:\Users\Sunjekt\source\repos\SoftwareDesignLab1\SoftwareDesignLab1\obj\Debug\SoftwareDesignLab1.pdb
